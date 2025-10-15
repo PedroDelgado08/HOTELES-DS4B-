@@ -34,7 +34,7 @@ Con Tableau, se diseñó un dashboard interactivo que permite filtrar por variab
 
 ## 📷 Vista previa
 
-![Vista previa del dashboard](dashboard.png)
+![Vista previa del dashboard](Dashboard.png)
 
 ---
 
