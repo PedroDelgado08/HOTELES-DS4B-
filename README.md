@@ -19,10 +19,9 @@ Con Tableau, se diseñó un dashboard interactivo que permite filtrar por variab
 |----------------------------|-------------|
 | `README.md`                | Este archivo con la descripción del proyecto |
 | `dashboard_preview.png`    | Captura de pantalla del dashboard |
-| `data/`                     | Datos utilizados (CSV / Excel / etc.) |
-| `notebooks/`                | Código de procesamiento / limpieza / análisis |
+| `data/`                     | Datos utilizados (CSV ) |
 | `tableau/`                  | Archivo del dashboard: `.twbx` (con datos) o `.twb` (solo estructura) |
-| `embed/index.html` (opcional) | Página con embed del dashboard para visualización web |
+
 
 ---
 
@@ -43,13 +42,7 @@ Con Tableau, se diseñó un dashboard interactivo que permite filtrar por variab
 
 1. Haz clic en el enlace al dashboard arriba para interactuar con él en la web.  
 2. Si tienes Tableau Desktop, puedes descargar el archivo `.twbx` (desde la carpeta `tableau/`) y abrirlo localmente.  
-3. Si incluyes `embed/index.html`, puedes abrirla en tu navegador (o servirlo con GitHub Pages).
 
 ---
 
-## 📎 Licencia / Créditos / Datos
-
-- Fuente de los datos: (indica de dónde los obtuviste)  
-- Licencia: (por ejemplo, MIT, CC BY, etc.)  
-- Autor: Pedro Delgado  
 
